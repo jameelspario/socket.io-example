@@ -1,0 +1,4 @@
+/socket.io-chat-server/node_modules/
+# /socketioandroidchatclient/.gradle/
+# /socketioandroidchatclient/.idea/
+# /socketioandroidchatclient/app/build
